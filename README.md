@@ -12,9 +12,7 @@ date, city, state, country, shape, duration, and a section for comments/descriti
 ## Filterting the Table
 We have five different input boxes to filter the adjacent table to only contain data with categories holding the values placed in the input boxes
 
-![alt text] (
-
-?raw=True)
+![alt text](https://github.com/sebcampos/UFOs/blob/master/resources/input_boxes.png?raw=True) 
 
 
 # Summary
