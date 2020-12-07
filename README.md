@@ -28,6 +28,7 @@ In the above example, we can see a user filter the table for the state "ca" and 
 - The values in the filter must match exactly with the values in our table, ie if the user was to enter "California" into the country input box nothing would be returned as "California" is not equal to "ca". No where do we specify on this page that our inputs must be exact.   
 - All out data is being held in one JavaScript array within a data.js file, adding/updating a large amount of new data might prove tedious or unreasonable
 - The Data on the page can not be downloaded or saved from our page in any format.
+- Some of the data seems to be corrupted throwing symbols into the table. Please verify
 ## Recommendations
 - Add a way for the user to print or save the currently displayed table as a file: csv, xlsx, sql etc.
 -  Create a sql database for our JavaScript script to query instead of the data.js file
