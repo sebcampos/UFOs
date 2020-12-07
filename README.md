@@ -14,7 +14,7 @@ We have five different input boxes  on our webpage to filter the adjacent table 
 ### Filters
 ![alt text](https://github.com/sebcampos/UFOs/blob/master/resources/input_boxes.png?raw=True)
  
-If one or more values are added to any of these input boxes a javascript function will iterate over the `<li>` html object which contains the input fields; then collect (if any) input information placed by the user. After collecting the inputs from the user our script will iterate over the data object within our data.js file. and filter the categories to only contain info related to the input fields. After this a table will be built out of the filtered data. If no inputs are given the data rendered in the table will be all available data.
+If one or more values are added to any of these input boxes a javascript function will iterate over the `<li>` html object which contains the input fields; then collect (if any) input information placed by the user. After collecting the inputs from the user our script will iterate over the data object within our data.js file and filter the categories to only contain info related to the input fields. After this a table will be built out of the filtered data. If no inputs are given the data rendered in the table will be all available data.
  
 ### Example
 ![alt text](https://github.com/sebcampos/UFOs/blob/master/resources/example.png?raw=True)
